@@ -2,6 +2,8 @@
 
 一个 `Flutter` `Demo`:
 
+<img width="48%" src="main.jpg" alt="App 首页"/>
+
 ## 使用
 
 如果有适配问题或者其他需求可以使用源码重新编译: 
