@@ -2,7 +2,7 @@
 
 一个 `Flutter` `Demo`:
 
-![App 首页](main.jpg)
+<img width="48%" src="main.jpg" alt="App 首页"/>
 
 ## 使用
 
